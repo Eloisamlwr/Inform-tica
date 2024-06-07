@@ -1,2 +1,3 @@
-# Inform-tica
-PISTASPRINCIPAIS
+# Informatica Aplicada na Logística 
+ 
+
